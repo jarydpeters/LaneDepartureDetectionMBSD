@@ -6,11 +6,11 @@ The curve of the road follows a Matlab calculation for a worst-case-scenario hig
 
 ![image](https://github.com/user-attachments/assets/fd1b7c17-006e-45c8-a53e-6534bff23677)
 
-The lane departure assist is controlled by a Stateflow model and has been tuned with a PID controller to return the driver to the lane.
+The lane departure assist is controlled by a Stateflow model.
 
 ![image](https://github.com/user-attachments/assets/ef01fe74-fde1-4f34-b242-bc38fac0ce7a)
 
-The controller's reponse has been balanced to return the driver to the lane as quickly as possible without suffering extreme lateral acceleration that could destabilize the vehicle.
+The controller's reponse has been balanced and tuned with a PID controller to return the driver to the lane as quickly as possible without suffering extreme lateral acceleration that could destabilize the vehicle.
 
 ![image](https://github.com/user-attachments/assets/c50a131c-ef45-4230-aafa-02a12b4a7405)
 
