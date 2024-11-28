@@ -20,7 +20,9 @@ The vehicle's roll on its springs has been added as a rudimentary Simscape model
 
 This entire system is contained in a Simulink model to connect all aspects to model its behavior in various situations.
 
+Highway's Path Generator:
 ![image](https://github.com/user-attachments/assets/2102e29d-eace-45a9-95e9-1cf70786f716)
+
 
 ![image](https://github.com/user-attachments/assets/fe4997e5-07eb-4604-9230-85bc73dd67cd)
 
