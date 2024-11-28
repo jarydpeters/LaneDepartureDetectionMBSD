@@ -26,12 +26,16 @@ Highway's Path:
 Vehicle's Position Within Lane:
 ![image](https://github.com/user-attachments/assets/fe4997e5-07eb-4604-9230-85bc73dd67cd)
 
+Driver's Steering Angle Generator:
 ![image](https://github.com/user-attachments/assets/b00aa80a-88b4-4bb9-9330-96a849b601bf)
 
+View of Entire Simulink System:
 ![image](https://github.com/user-attachments/assets/97fed0a6-89ec-4524-a00a-61d1c4313bd8)
 
+Vehicle's Steering Angle And Position In Lane:
 ![image](https://github.com/user-attachments/assets/cd543342-24fd-4317-8a68-d917342af489)
 
+Vehicle's Springs' Compression and Vehicle's Position in Lane:
 ![image](https://github.com/user-attachments/assets/60ab419f-ef4b-4b6c-a77a-73b39d7d3c1c)
 
 
